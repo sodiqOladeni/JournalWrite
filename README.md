@@ -11,3 +11,15 @@
 
 ### Add and Edit Journal page allow user to add to the database and also edit database content
 ![Add and Edit journal page](https://github.com/sodiqOladeni/JournalWrite/blob/master/screen_shots/Add%20and%20Edit%20Journal.png)
+
+
+Prerequisites
+You will need the following to run this project:
+
+A laptop or desktop machine with internet access
+Android Studio 3.1.3 Stable Channel (Latest Stable Release)
+Setting Up
+Clone the Repository from Github
+Open the project folder using Android Studio IDE
+Login Page
+The User will the be presented with the Login Page, where they are required to authenticate themselves using Google Login
